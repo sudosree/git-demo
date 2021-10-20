@@ -1,2 +1,3 @@
 This is file b.txt
 Adding a new feature
+New line
